@@ -2,14 +2,14 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
       
-global.pairingNumber = 6282381978401
+global.pairingNumber = 6285607290187
 global.owner = [
-  ['6287701656619', 'Agus', true]
+  ['6285607290187', 'Tito', true]
 ]
 global.mods = []
 
-global.namebot = 'ChiiBOT - MD'
-global.author = 'Agus'
+global.namebot = 'Aphrodite - MD'
+global.author = 'Tito'
 
 global.wait = 'Loading...'
 global.eror = 'Terjadi Kesalahan...'
@@ -19,8 +19,8 @@ slug: 'kilersbotz',
 apikey: 'bWDO2M8GcfruzXscdKNQJC3vw8Y8PV13'
 }
 
-global.stickpack = 'Croted By'
-global.stickauth = namebot
+global.stickpack = 'Made On Earth'
+global.stickauth = 'Tito'
 
 global.multiplier = 38 // The higher, The harder levelup
 
